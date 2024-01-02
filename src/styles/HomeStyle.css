@@ -1,0 +1,93 @@
+.home{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: left;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    flex-direction: column;
+}
+
+
+.home-container{
+
+    width: auto;
+    margin-left: 30px;
+
+}
+
+
+.home-container h1{
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.home-container p{
+    margin-top: 15px;
+    padding: 0px;
+    font-size: 40px;
+    font-weight: lighter;
+    color: black;
+
+}
+
+.home-container button{
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    height: 50px;
+    width: 180px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.home-container button:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s eases-in;
+}
+
+
+@media only screen and (max-width : 600px){
+
+    .home{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home-container{
+        margin-left: 0;
+        border-radius: 10px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background-color: black;
+        color: white;
+    }
+    .home-container h1{
+        font-size: 40px;
+        height: 30px;
+        margin: 30px 0px;
+        color: white;
+    }
+
+    .home-container p {
+        font-size: 30px;
+        color: white;
+       
+    }
+
+    .home-container button {
+        background-color: white;
+        color: #121619;
+        margin-bottom: 30px;
+    }
+}
