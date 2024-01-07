@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Resturant-website/static/css/main.b305d809.css",
+    "main.js": "/Resturant-website/static/js/main.ce562324.js",
+    "static/js/787.cefe34ed.chunk.js": "/Resturant-website/static/js/787.cefe34ed.chunk.js",
+    "static/media/Kabab.jpg": "/Resturant-website/static/media/Kabab.017b377f30e88f409589.jpg",
+    "static/media/Karahi.jpg": "/Resturant-website/static/media/Karahi.9be09d9d553b4486e6a5.jpg",
+    "static/media/Halwapuri.jpg": "/Resturant-website/static/media/Halwapuri.07a6c5107fe9debedad4.jpg",
+    "static/media/Chaat.jpg": "/Resturant-website/static/media/Chaat.594eb16e4a4cd66fe972.jpg",
+    "static/media/Haleem.jpg": "/Resturant-website/static/media/Haleem.0ff70482d9bcd68719d5.jpg",
+    "static/media/Nihari.jpg": "/Resturant-website/static/media/Nihari.47df14733cff0729f11d.jpg",
+    "static/media/Mutton.jpg": "/Resturant-website/static/media/Mutton.661625a3e5814f501644.jpg",
+    "static/media/Biryani.jpg": "/Resturant-website/static/media/Biryani.26ca1ffe4e76cb40aec6.jpg",
+    "static/media/Lassi.jpg": "/Resturant-website/static/media/Lassi.8c7e71c9781cac1cb537.jpg",
+    "static/media/banner.jpeg": "/Resturant-website/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/logo.svg": "/Resturant-website/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "index.html": "/Resturant-website/index.html",
+    "main.b305d809.css.map": "/Resturant-website/static/css/main.b305d809.css.map",
+    "main.ce562324.js.map": "/Resturant-website/static/js/main.ce562324.js.map",
+    "787.cefe34ed.chunk.js.map": "/Resturant-website/static/js/787.cefe34ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b305d809.css",
+    "static/js/main.ce562324.js"
+  ]
+}
